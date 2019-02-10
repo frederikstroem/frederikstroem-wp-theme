@@ -52,6 +52,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 # Media
 	## Captions
 	## Galleries
+# frederikstroem-wp-theme
 --------------------------------------------------------------*/
 /*
  * Chrome renders extra-wide &nbsp; characters for the Hoefler Text font.
@@ -4644,4 +4645,19 @@ svg {
 
 .gallery-item > div > a:focus {
   box-shadow: 0 0 0 2px #0073aa;
+}
+
+/* frederikstroem-wp-theme */
+body {
+  background-color: #000000;
+}
+
+* {
+  color: #ffffff;
+  font-family: "Courier New";
+}
+
+.site-title a:link, .site-title a:visited {
+  color: #ffffff;
+  font-family: "Courier New";
 }
