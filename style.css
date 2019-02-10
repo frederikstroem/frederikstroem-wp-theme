@@ -4661,3 +4661,8 @@ body {
   color: #ffffff;
   font-family: "Courier New";
 }
+
+.author-description .author-link, .comment-metadata, .comment-reply-link, .comments-title, .comment-author .fn, .discussion-meta-info, .entry-meta, .entry-footer, .main-navigation, .no-comments, .not-found .page-title, .error-404 .page-title, .post-navigation .post-title, .page-links, .page-description, .pagination .nav-links, .sticky-post, .site-title, .site-info, #cancel-comment-reply-link, img:after, h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
+  font-family: "Courier New";
+}
